@@ -49,7 +49,7 @@ class _MovieGridscreenState extends State<MovieGridscreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       body: Container(
-        color: Colors.greenAccent,
+        color: Colors.yellow,
         child: Padding(
           padding: const EdgeInsets.only(top: 46.0, left: 16.0, right: 16.0),
           child: Column(
